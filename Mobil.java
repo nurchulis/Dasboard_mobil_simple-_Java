@@ -10,7 +10,7 @@
  */
 public class Mobil {
 	
-	public static void main(String[] args) {
+	public static void main(String[] args){
 		
 		Gasgasan prog = new Gasgasan();
 		prog.run();
